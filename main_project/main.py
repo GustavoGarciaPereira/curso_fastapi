@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
 
-app = FastAPI(title="My API")
+app = FastAPI(title="My API-1")
 
 if __name__ == "__main__":
     import uvicorn
